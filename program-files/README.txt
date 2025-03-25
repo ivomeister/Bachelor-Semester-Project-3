@@ -1,0 +1,2 @@
+The current folder contains 6 items - PRESENT block cipher implementation, MILP modeling program and an attack on 5, 6, 7 and (unrealized) 8 rounds of PRESENT
+These are simply Python programs, so to run any of them, one must have Python 3 installed and for example use the terminal command "python3 program.py", where "program.py" is the actual name of the program 
